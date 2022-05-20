@@ -40,7 +40,3 @@ O PDF anexado pode ser encontrado aqui [test_plan_sample.pdf](https://github.com
 - Seu código de teste não deve exigir teste.
 
 - 200~OK nem sempre é bom; Não confie apenas no status do servidor durante o teste, obter o status 200 para uma chamada de API não autorizada é arriscar a segurança do seu software.
-
-## Contribuindo
-
-Consulte o [contributing.md](https://github.com/fityanos/awesome-quality-assurance-road-map/blob/master/contributing.md) para obter detalhes sobre como contribuir.
