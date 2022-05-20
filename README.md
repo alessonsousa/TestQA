@@ -20,7 +20,7 @@ Um dos documentos mais importantes a serem gerados pela equipe de QA é o plano 
 
 As seções e o conteúdo do plano de teste podem variar de acordo com a natureza do projeto e da entrega, portanto, o PDF do plano de teste anexado é considerado genérico que atende a todos os propósitos de entrega de teste de software.
 
-O PDF anexado pode ser encontrado aqui [test_plan_sample.pdf](https://github.com/anas-qa/Quality-Assurance-Road-Map/blob/master/Test_Plan_Sample.pdf) para download.
+O PDF anexado pode ser encontrado aqui [test_plan_sample.pdf](https://github.com/alessonsousa/TestQA/blob/main/Test_Plan_Sample.pdf) para download.
 
 ## O Roteiro
 
